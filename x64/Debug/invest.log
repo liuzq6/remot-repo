@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\vs\invest\invest\main.cpp(18): warning C4715: “Question1”: 不是所有的控件路径都返回值
+  invest.vcxproj -> D:\vs\invest\x64\Debug\invest.exe
